@@ -1,19 +1,76 @@
 {
-    "users": [
-        {"id": "1", "firstName": "Alish", "age": 23, "addressId": "1123"},
-        {"id": "2", "firstName": "Anjil", "age": 29, "addressId": "1123"},
-        {"id": "3", "firstName": "Kumar", "age": 57, "addressId": "3333"},
-        {"id": "4", "firstName": "Gita", "age": 53, "addressId": "3333"}
-    ],
-    "cats": [
-        {"id": "1", "firstName": "Billi", "age": 3, "addressId": "3333"},
-        {"id": "2", "firstName": "Pluto", "age": 1, "addressId": "2223"},
-        {"id": "3", "firstName": "Steel", "age": 0.5, "addressId": "2223"},
-        {"id": "4", "firstName": "Zelda", "age": 1, "addressId": "3333"}
-    ],
-    "address": [
-        {"id": "1123", "city": "Omaha", "zipcode": 68136 },
-        {"id": "2223", "city": "Hammond", "zipcode": 70401},
-        {"id": "3333", "city": "Biratnagar", "zipcode": 56680}
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Alish",
+      "age": 23,
+      "addressId": "1123"
+    },
+    {
+      "id": "2",
+      "firstName": "Anjil",
+      "age": 29,
+      "addressId": "1123"
+    },
+    {
+      "id": "3",
+      "firstName": "Kumar",
+      "age": 57,
+      "addressId": "3333"
+    },
+    {
+      "id": "4",
+      "firstName": "Gita",
+      "age": 53,
+      "addressId": "3333"
+    },
+    {
+      "firstName": "Bishwa",
+      "age": 22,
+      "id": "vVBGVdV"
+    }
+  ],
+  "cats": [
+    {
+      "id": "1",
+      "firstName": "Billi",
+      "age": 3,
+      "addressId": "3333"
+    },
+    {
+      "id": "2",
+      "firstName": "Pluto",
+      "age": 1,
+      "addressId": "2223"
+    },
+    {
+      "id": "3",
+      "firstName": "Steel",
+      "age": 0.5,
+      "addressId": "2223"
+    },
+    {
+      "id": "4",
+      "firstName": "Zelda",
+      "age": 1,
+      "addressId": "3333"
+    }
+  ],
+  "address": [
+    {
+      "id": "1123",
+      "city": "Omaha",
+      "zipcode": 68136
+    },
+    {
+      "id": "2223",
+      "city": "Hammond",
+      "zipcode": 70401
+    },
+    {
+      "id": "3333",
+      "city": "Biratnagar",
+      "zipcode": 56680
+    }
+  ]
 }
